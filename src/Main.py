@@ -1,6 +1,6 @@
 import random
 import time
-
+#These are the teams - replace with DB info later
 TEAM_A = "Team A"
 TEAM_B = "Team B"
 HALF_LENGTH = 7  # minutes per half
